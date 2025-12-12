@@ -1,0 +1,351 @@
+1
+00:00:00,120 --> 00:00:10,640
+It might be hard to believe, but traces of supernova explosions that occurred millions of years ago are imprinted in Earth's deep ocean floor.
+
+2
+00:00:11,620 --> 00:00:19,960
+It's hard to believe at first that evidence of stellar explosions in space has been left at the bottom of the ocean.
+
+3
+00:00:21,060 --> 00:00:29,019
+The key to solving this mystery is a special and extremely rare substance called iron-60.
+
+4
+00:00:29,880 --> 00:00:34,260
+Today, let's explore how this special iron,
+
+5
+00:00:34,880 --> 00:00:38,600
+which differs from ordinary iron,
+
+6
+00:00:39,110 --> 00:00:41,000
+tells us the grand history of the universe.
+
+7
+00:00:44,160 --> 00:00:48,160
+First, let me explain about our main character, iron-60.
+
+8
+00:00:48,980 --> 00:00:52,040
+The iron you're familiar with is iron-56.
+
+9
+00:00:53,060 --> 00:00:57,959
+It has 26 protons and 30 neutrons in its nucleus.
+
+10
+00:00:58,740 --> 00:01:06,040
+But iron-60, which we're discussing today, is a special type of iron with as many as 34 neutrons.
+
+11
+00:01:06,960 --> 00:01:18,560
+Iron-60 is actually radioactive and slowly transforms into another element over an incredibly long period of 2.6 million years.
+
+12
+00:01:19,380 --> 00:01:27,940
+2.6 million years is roughly the same time from when our stone-tool-using ancestors appeared to the present day.
+
+13
+00:01:28,300 --> 00:01:30,080
+That's how long it is.
+
+14
+00:01:30,880 --> 00:01:33,100
+But here's an important point.
+
+15
+00:01:33,880 --> 00:01:37,760
+Iron-60 is not naturally produced on Earth.
+
+16
+00:01:38,680 --> 00:01:40,580
+So where did it come from?
+
+17
+00:01:41,660 --> 00:01:43,260
+The answer lies in space.
+
+18
+00:01:44,880 --> 00:01:50,460
+In massive stars that are 8 to 25 times heavier than our Sun.
+
+19
+00:01:51,820 --> 00:01:57,200
+Their cores are worlds of unimaginably high temperature and pressure.
+
+20
+00:01:58,120 --> 00:02:05,400
+Temperatures reach billions of degrees, and pressure is hundreds of billions of times Earth's atmospheric pressure.
+
+21
+00:02:06,700 --> 00:02:17,640
+In this extreme environment, which is extremely rich in neutrons compared to normal conditions, iron-58 captures neutrons to create iron-60.
+
+22
+00:02:18,540 --> 00:02:20,660
+It's like cosmic alchemy.
+
+23
+00:02:21,800 --> 00:02:30,480
+And when a star reaches the end of its life, it creates one of the universe's most powerful explosions - a supernova.
+
+24
+00:02:31,280 --> 00:02:39,060
+Its power is so great that it releases in just a few seconds the energy the Sun would emit over 10 billion years.
+
+25
+00:02:39,920 --> 00:02:44,860
+This explosion scatters iron-60 throughout space.
+
+26
+00:02:46,140 --> 00:02:58,780
+From the 1960s to 1970s, the American research vessel Eltanin collected sediments - basically sand and rock fragments -
+
+27
+00:02:59,940 --> 00:03:01,440
+from ocean floors around the world.
+
+28
+00:03:03,000 --> 00:03:09,280
+This survey also provided important evidence for proving the theory of continental drift.
+
+29
+00:03:10,380 --> 00:03:13,560
+But there was an astonishing discovery.
+
+30
+00:03:14,500 --> 00:03:26,640
+Iron-60, which shouldn't exist on Earth, was found in deep ocean floors across the Indian Ocean, Pacific Ocean, and Atlantic Ocean - all over the world.
+
+31
+00:03:27,340 --> 00:03:31,780
+Iron-60 that shouldn't be naturally produced on Earth.
+
+32
+00:03:32,700 --> 00:03:36,120
+When and where did it come from?
+
+33
+00:03:36,940 --> 00:03:43,540
+When scientists examined the iron-60 in rock fragments collected from the ocean floor by Eltanin,
+
+34
+00:03:43,560 --> 00:03:49,280
+interestingly, there were clear peaks in the amount of iron-60.
+
+35
+00:03:50,300 --> 00:03:54,540
+About 1.7 to 3.2 million years ago,
+
+36
+00:03:55,200 --> 00:04:00,820
+and about 6.5 to 8.7 million years ago - two distinct periods.
+
+37
+00:04:01,580 --> 00:04:05,840
+Apparently something special happened during these times.
+
+38
+00:04:06,780 --> 00:04:13,520
+Scientists believe this is evidence of supernova explosions that occurred near Earth.
+
+39
+00:04:14,280 --> 00:04:17,880
+But "near" is relative on a cosmic scale.
+
+40
+00:04:18,900 --> 00:04:24,500
+The estimated distance is about 230 to 330 light-years away.
+
+41
+00:04:25,130 --> 00:04:28,660
+A distance that would take over 200 years even at the speed of light.
+
+42
+00:04:29,680 --> 00:04:33,020
+The iron-60 released by the supernova explosion
+
+43
+00:04:33,640 --> 00:04:36,400
+traveled through space for a long time,
+
+44
+00:04:37,100 --> 00:04:39,720
+eventually entering Earth's atmosphere,
+
+45
+00:04:40,380 --> 00:04:42,160
+then raining down into the ocean,
+
+46
+00:04:42,760 --> 00:04:45,300
+and slowly accumulating on the ocean floor.
+
+47
+00:04:46,520 --> 00:04:51,080
+The fact that iron-60 continued to fall for 1.5 million years
+
+48
+00:04:52,000 --> 00:04:53,800
+suggests not a single explosion,
+
+49
+00:04:54,640 --> 00:04:59,320
+but likely multiple supernova explosions occurring in succession.
+
+50
+00:04:59,800 --> 00:05:02,720
+Actually, our solar system is currently
+
+51
+00:05:03,560 --> 00:05:05,420
+in what's called the Local Bubble,
+
+52
+00:05:06,380 --> 00:05:09,380
+a region of space particularly sparse in matter,
+
+53
+00:05:09,900 --> 00:05:12,200
+like being inside a bubble.
+
+54
+00:05:13,400 --> 00:05:16,180
+Its radius is about 500 light-years,
+
+55
+00:05:16,960 --> 00:05:21,120
+and it continues to expand at about 6.5 km per second even now.
+
+56
+00:05:22,020 --> 00:05:23,920
+To explain this simply,
+
+57
+00:05:24,700 --> 00:05:27,260
+it's like blowing sand with a fan.
+
+58
+00:05:28,800 --> 00:05:32,960
+The wind blows the sand away, leaving the center sparse,
+
+59
+00:05:33,680 --> 00:05:35,700
+while creating walls of sand around it.
+
+60
+00:05:37,020 --> 00:05:42,140
+Scientists believe this Local Bubble was created by
+
+61
+00:05:42,740 --> 00:05:46,200
+multiple supernova explosions over the past 14 million years.
+
+62
+00:05:47,620 --> 00:05:52,860
+And the iron-60 in the deep ocean is an important clue to its formation process.
+
+63
+00:05:54,040 --> 00:05:57,160
+But I'm sure many of you are wondering:
+
+64
+00:05:58,120 --> 00:06:03,000
+How did they measure a substance with a half-life of 2.6 million years?
+
+65
+00:06:03,680 --> 00:06:09,280
+Usually, the half-life of radioactive materials is measured by observing their decay.
+
+66
+00:06:10,200 --> 00:06:14,300
+But 2.6 million years is longer than human history.
+
+67
+00:06:15,040 --> 00:06:16,380
+Observation would be impossible, right?
+
+68
+00:06:17,480 --> 00:06:21,280
+So scientists came up with a clever method.
+
+69
+00:06:22,260 --> 00:06:28,200
+They artificially created iron-60 by bombarding copper with protons in a nuclear reaction,
+
+70
+00:06:28,680 --> 00:06:34,980
+then compared that iron-60 with iron-55, which has a half-life of 2.7 years.
+
+71
+00:06:36,300 --> 00:06:40,540
+Some of you may know about carbon-14 dating.
+
+72
+00:06:41,380 --> 00:06:45,740
+That famous method used in archaeology to determine ages.
+
+73
+00:06:46,660 --> 00:06:52,440
+Carbon-14 dating uses not only the radioactive isotope carbon-14,
+
+74
+00:06:53,240 --> 00:06:57,140
+but also its ratio to the stable isotope carbon-12.
+
+75
+00:06:57,940 --> 00:07:01,820
+Rather than just measuring the absolute amount of carbon-14,
+
+76
+00:07:02,660 --> 00:07:06,160
+by comparing it with carbon-12, we can eliminate the effects
+
+77
+00:07:06,650 --> 00:07:12,500
+of increased atmospheric carbon from external factors like fossil fuels and nuclear testing.
+
+78
+00:07:13,560 --> 00:07:18,280
+Using a similar principle, by comparing with a substance of known half-life,
+
+79
+00:07:18,880 --> 00:07:21,780
+we can accurately measure even long half-lives.
+
+80
+00:07:25,220 --> 00:07:27,120
+When we think of space research,
+
+81
+00:07:27,200 --> 00:07:32,140
+most people imagine observing the universe with telescopes.
+
+82
+00:07:33,820 --> 00:07:38,860
+But the fact that treasures for unraveling cosmic mysteries
+
+83
+00:07:39,520 --> 00:07:41,620
+were sleeping deep in the ocean floor as radioactive isotopes
+
+84
+00:07:42,260 --> 00:07:47,100
+is unexpectedly fascinating, don't you think?
+
+85
+00:07:47,880 --> 00:07:55,860
+Radioactive isotopes can act as clocks for recording the history of the universe and humanity.
+
+86
+00:07:56,620 --> 00:08:11,940
+The connection between space, the ocean, and radiation, and how they became keys to solving cosmic mysteries - it's a wonderful example of how collaboration between different fields of knowledge leads to new discoveries.
+
+87
+00:08:13,020 --> 00:08:23,120
+The slides linked in the description delve into more technical content not covered in the video, so please check those out if you're interested.
+
+88
+00:08:24,440 --> 00:08:28,380
+See you in the next video. Take care!
